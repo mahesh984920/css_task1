@@ -1,0 +1,43 @@
+* {
+  color: white;
+}
+h3 {
+  background-color: deeppink;
+}
+.col1 {
+  color: black;
+  background-color: white;
+}
+.col11{
+    background-color: yellow;
+}
+.col22{
+    background-color: aqua;
+}
+.col33{
+    background-color: blueviolet;
+}
+.col44{
+    background-color: brown;
+}
+#col2 {
+  background-color: black;
+}
+#col111{
+    background-color: darkgray;
+}
+#col222{
+    background-color: pink;
+}
+#col333{
+    background-color: lawngreen;
+}
+#col444{
+    background-color: darkmagenta;
+}
+.ex1{
+    background-color: orange;
+}
+#ex2{
+    background-color: red;
+}
